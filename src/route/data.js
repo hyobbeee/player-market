@@ -4,6 +4,7 @@ let data = [
 		name: 'João Félix',
 		age: '1999년 11월 10일',
 		position: 'Forward',
+		photo: '',
 	},
 	{
 		id: 1,
@@ -13,8 +14,9 @@ let data = [
 	},
 	{
 		id: 2,
-		name: 'Luis Diaz',
+		name: 'Luis Suárez',
 		age: '1987년 1월 24일',
 		position: 'Forward',
 	},
 ];
+export default data;
